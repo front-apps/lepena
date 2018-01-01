@@ -6,3 +6,6 @@ An admin HTML template using HTML, CSS, Bootstrap, Ajax, SASS
 
 ### Demo
 http://hein.byethost31.com/demo/lepena/#main.html
+
+### Credits
+Based on core-ajax
