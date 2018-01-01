@@ -1,7 +1,7 @@
 {
-  "name": "@coreui/ajax",
+  "name": "lepana",
   "version": "1.0.6",
-  "description": "Open Source Bootstrap Admin Template",
+  "description": "based on core-ajax",
   "main": "index.html",
   "dependencies": {
     "bootstrap": "4.0.0-beta.2",
@@ -46,9 +46,5 @@
     "Safari >= 9",
     "Android >= 4.4",
     "Opera >= 30"
-  ],
-  "author": "Łukasz Holeczek",
-  "homepage": "http://coreui.io",
-  "copyright": "Copyright 2017 creativeLabs Łukasz Holeczek",
-  "license": "MIT"
+  ]
 }
